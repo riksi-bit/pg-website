@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riksi-bit.github.io/pg-website/sitemap.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://riksi-bit.github.io/pg-website/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://riksi-bit.github.io/pg-website/pg-in-vashi.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://riksi-bit.github.io/pg-website/pg-in-seawoods.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://riksi-bit.github.io/pg-website/pg-in-nerul.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
