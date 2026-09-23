@@ -1,5 +1,0 @@
-# Update the sitemap URL below once your site is live
-User-agent: *
-Allow: /
-
-Sitemap: https://example.com/sitemap.xml
